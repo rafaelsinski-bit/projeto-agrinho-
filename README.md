@@ -40,3 +40,4 @@ A combinação dessas tecnologias possibilita um site leve, funcional e de fáci
 ### 🌱 Considerações finais
 
 Este projeto busca unir tecnologia e conscientização ambiental, mostrando como a web pode ser utilizada como ferramenta de educação e transformação social. O desenvolvimento no Base44 permitiu criar uma solução prática e moderna para compartilhar informações importantes sobre sustentabilidade e preservação do futuro.
+link:https://eco-pulso-futuro.base44.app
